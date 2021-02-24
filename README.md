@@ -1,1 +1,2 @@
-# Collision-algorithim
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
